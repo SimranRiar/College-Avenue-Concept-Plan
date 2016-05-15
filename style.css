@@ -5,3 +5,10 @@ img {
     border: 1px solid;
     
 }
+
+tr {
+    max-width: 100%;
+    width: auto;
+    width: auto;
+    border: 1px solid;
+}
