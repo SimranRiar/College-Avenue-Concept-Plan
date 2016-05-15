@@ -3,4 +3,6 @@ img {
     width: auto;
     height: auto;
     border: 3px solid #73AD21;
+    
+    box-shadow: 10px 20px;
 }
